@@ -1,0 +1,45 @@
+:root {
+    --bg-color: #212121;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+.login-img {
+    width: 200px;
+    height: 200px;
+}
+
+.form-register,
+.form-signin {
+    color: whitesmoke;
+}
+
+.cash-value{
+    color: lawngreen;
+    font-weight: bold;
+}
+
+.products-row {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.modal-content {
+    background-color: #212121;
+}
+
+.purchased-card {
+   width: 16rem;
+}
+
+.return-button {
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
